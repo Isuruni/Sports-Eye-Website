@@ -1,0 +1,15 @@
+/* set entire body that is webpage */
+body{
+	background: #383a3d;	
+}
+/* set form background colour*/
+form{
+	background: #FFFFFF;
+	
+}
+/* set padding and size of th form */
+.form-container{
+	border-radius:50px;
+	padding: 50px;
+	margin-top: 50%;
+}
